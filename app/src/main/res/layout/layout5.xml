@@ -30,4 +30,6 @@
             android:textColor="@color/white"/>
     </ScrollView>
 
+    <include layout="@layout/next_button"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

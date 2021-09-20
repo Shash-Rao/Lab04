@@ -77,4 +77,6 @@
         </LinearLayout>
     </HorizontalScrollView>
 
+    <include layout="@layout/next_button"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
